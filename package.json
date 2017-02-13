@@ -1,0 +1,17 @@
+{
+  "name": "node-pm2",
+  "version": "1.0.0",
+  "description": "a pm2 learning project for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 index.js"
+  },
+  "keywords": [
+    "pm2"
+  ],
+  "author": "slashhuang",
+  "license": "ISC",
+  "devDependencies": {
+    "pm2": "^2.4.0"
+  }
+}
