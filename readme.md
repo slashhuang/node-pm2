@@ -25,5 +25,6 @@
 [pm2](http://pm2.keymetrics.io/docs/usage/process-management/)
 
 ## results
-![cluster]()
-![detail]()
+![cluster](https://github.com/slashhuang/node-pm2/blob/master/assets/cluster.png)
+
+![detail](https://github.com/slashhuang/node-pm2/blob/master/assets/detail.png)
