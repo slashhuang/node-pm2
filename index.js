@@ -4,4 +4,4 @@
  */
 
  require('babel-register');
- require('app/bin');
+ require('./app/bin');
